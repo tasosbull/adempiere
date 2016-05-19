@@ -31,7 +31,7 @@
 	<classpathentry kind="src" path="org.adempiere.asset/src/main/java/base"/>
 	<classpathentry kind="src" path="org.adempiere.webservice/WEB-INF/src"/>
 	<classpathentry kind="src" path="com.kkalice.adempiere.migrate/src"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79"/>
 	<classpathentry exported="true" kind="lib" path="tools/lib/jstl.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
